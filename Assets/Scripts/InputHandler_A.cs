@@ -20,5 +20,4 @@ public class InputHandler_A : MonoBehaviour
         buttonLeft = Input.GetButton("Player_A_Left");
         buttonRight = Input.GetButton("Player_A_Right");
     }
-
 }
